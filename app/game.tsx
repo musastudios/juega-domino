@@ -227,7 +227,6 @@ export default function GameScreen() {
             fadeOut={true}
             fallSpeed={2500}
             explosionSpeed={300}
-            angle={45}
             colors={['#FFD700', '#FFA500', '#FF69B4', '#87CEEB', '#98FB98']}
           />
           <ConfettiCannon
@@ -238,7 +237,6 @@ export default function GameScreen() {
             fadeOut={true}
             fallSpeed={2500}
             explosionSpeed={300}
-            angle={135}
             colors={['#FFD700', '#FFA500', '#FF69B4', '#87CEEB', '#98FB98']}
           />
         </View>
